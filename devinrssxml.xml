@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Morrison CTI Platform</title>
+  <link>Your website link</link>
+  <description>Sources for CSA210: </description>
+  <item>
+    <title>US CERT</title>
+    <link>https://us-cert.cisa.gov/ncas/alerts.xml</link>
+    <description>US Cert.</description>
+  </item>
+  <item>
+    <title>The Hacker News</title>
+    <link>https://feeds.feedburner.com/TheHackersNews</link>
+    <description>The Hacker News.</description>
+  </item>
+    <item>
+    <title>Krebson Security</title>
+    <link>https://krebsonsecurity.com/feed/</link>
+    <description>Krebson Security.</description>
+  </item>
+    <item>
+    <title>Dark Reading</title>
+    <link>https://www.darkreading.com/rss_simple.asp</link>
+    <description>Dark Reading.</description>
+  </item>
+    <item>
+    <title>Threat Post</title>
+    <link>https://threatpost.com/feed/</link>
+    <description>Threat Post.</description>
+  </item>
+    <item>
+    <title>Bleeping Computer</title>
+    <link>https://www.bleepingcomputer.com/feed/</link>
+    <description>Bleeping Computer.</description>
+  </item>
+    <item>
+    <title>Security Week</title>
+    <link>https://www.securityweek.com/rss/all</link>
+    <description>Security Week.</description>
+  </item>
+    <item>
+    <title>Infosec Magazine</title>
+    <link>https://www.infosecurity-magazine.com/rss/news/</link>
+    <description>Infosec Magazine.</description>
+  </item>
+    <item>
+    <title>SCMagazine</title>
+    <link>https://www.scmagazine.com/home/security-news/?rss=1</link>
+    <description>SCMagazine.</description>
+  </item>
+    <item>
+    <title>Zero Day Initative</title>
+    <link>https://www.zerodayinitiative.com/blog/feed</link>
+    <description>Zero Day Initative.</description>
+  </item>
+</channel>
+</rss>
